@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Playfair DisplayOmnisend';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.soundestlink.com/fonts/static/aHR0cHM6Ly9mb250cy5nc3RhdGljLmNvbS9zL3BsYXlmYWlyZGlzcGxheS92MzcvbnVGUkQtdllTWnZpVllVYl9yajNpal9fYW5QWERUbkNqbUhLTTRuWU83S05fcWlUYnRVLndvZmY=) format('woff');
+}
+@font-face {
+  font-family: 'Playfair DisplayOmnisend';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.soundestlink.com/fonts/static/aHR0cHM6Ly9mb250cy5nc3RhdGljLmNvbS9zL3BsYXlmYWlyZGlzcGxheS92MzcvbnVGUkQtdllTWnZpVllVYl9yajNpal9fYW5QWERUbkNqbUhLTTRuWU83S05fay1VYnRVLndvZmY=) format('woff');
+}
+@font-face {
+  font-family: 'Playfair DisplayOmnisend';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.soundestlink.com/fonts/static/aHR0cHM6Ly9mb250cy5nc3RhdGljLmNvbS9zL3BsYXlmYWlyZGlzcGxheS92MzcvbnVGdkQtdllTWnZpVllVYl9yajNpal9fYW5QWEp6RHdjYm1qV0JOMlBLZEZ2VURULndvZmY=) format('woff');
+}
+@font-face {
+  font-family: 'Playfair DisplayOmnisend';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.soundestlink.com/fonts/static/aHR0cHM6Ly9mb250cy5nc3RhdGljLmNvbS9zL3BsYXlmYWlyZGlzcGxheS92MzcvbnVGdkQtdllTWnZpVllVYl9yajNpal9fYW5QWEp6RHdjYm1qV0JOMlBLZWl1a0RULndvZmY=) format('woff');
+}
